@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpMathProjects\\IQuittableDemo\\IQuittableDemo.csproj",
       "projectName": "IQuittableDemo",
       "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpMathProjects\\IQuittableDemo\\IQuittableDemo.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpMathProjects\\IQuittableDemo\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\user\\The-Tech-Academy-Basic-C-Sharp-Projects\\The-Tech-Academy-Basic-C-Sharp-Projects.csproj",
+      "projectName": "The-Tech-Academy-Basic-C-Sharp-Projects",
+      "projectPath": "C:\\Users\\user\\The-Tech-Academy-Basic-C-Sharp-Projects\\The-Tech-Academy-Basic-C-Sharp-Projects.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\The-Tech-Academy-Basic-C-Sharp-Projects\\obj\\",
+>>>>>>> d7ca3328e83b324cd2700c7c9012cec553a12ebc
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

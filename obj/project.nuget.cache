@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "3Y7DhBSAYdc=",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpMathProjects\\IQuittableDemo\\IQuittableDemo.csproj",
+=======
+  "dgSpecHash": "qNk0eTeVp+0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\The-Tech-Academy-Basic-C-Sharp-Projects\\The-Tech-Academy-Basic-C-Sharp-Projects.csproj",
+>>>>>>> d7ca3328e83b324cd2700c7c9012cec553a12ebc
   "expectedPackageFiles": [],
   "logs": []
 }
