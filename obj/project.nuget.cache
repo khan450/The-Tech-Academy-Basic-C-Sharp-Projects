@@ -1,8 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "/mwqnv7DpMw=",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpMathProjects\\IQuittableDemo\\EmployeeDemo\\EmployeeDemo.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "3Y7DhBSAYdc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpMathProjects\\IQuittableDemo\\IQuittableDemo.csproj",
+=======
+  "dgSpecHash": "qNk0eTeVp+0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\The-Tech-Academy-Basic-C-Sharp-Projects\\The-Tech-Academy-Basic-C-Sharp-Projects.csproj",
+>>>>>>> d7ca3328e83b324cd2700c7c9012cec553a12ebc
+>>>>>>> adcd03924d2e8e5cc8477fd4bc853ae536533e6a
   "expectedPackageFiles": [],
   "logs": []
 }
