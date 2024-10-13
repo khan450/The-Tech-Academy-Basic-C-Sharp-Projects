@@ -1,0 +1,14 @@
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\bin\Debug\net9.0\The-Tech-Academy-Basic-C-Sharp-Projects.exe
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\bin\Debug\net9.0\The-Tech-Academy-Basic-C-Sharp-Projects.deps.json
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\bin\Debug\net9.0\The-Tech-Academy-Basic-C-Sharp-Projects.runtimeconfig.json
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\bin\Debug\net9.0\The-Tech-Academy-Basic-C-Sharp-Projects.dll
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\bin\Debug\net9.0\The-Tech-Academy-Basic-C-Sharp-Projects.pdb
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\obj\Debug\net9.0\The-Tech-Academy-Basic-C-Sharp-Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\obj\Debug\net9.0\The-Tech-Academy-Basic-C-Sharp-Projects.AssemblyInfoInputs.cache
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\obj\Debug\net9.0\The-Tech-Academy-Basic-C-Sharp-Projects.AssemblyInfo.cs
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\obj\Debug\net9.0\The-Tech-Academy-Basic-C-Sharp-Projects.csproj.CoreCompileInputs.cache
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\obj\Debug\net9.0\The-Tech-Academy-Basic-C-Sharp-Projects.dll
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\obj\Debug\net9.0\refint\The-Tech-Academy-Basic-C-Sharp-Projects.dll
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\obj\Debug\net9.0\The-Tech-Academy-Basic-C-Sharp-Projects.pdb
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\obj\Debug\net9.0\The-Tech-Academy-Basic-C-Sharp-Projects.genruntimeconfig.cache
+C:\Users\user\The-Tech-Academy-Basic-C-Sharp-Projects\obj\Debug\net9.0\ref\The-Tech-Academy-Basic-C-Sharp-Projects.dll
