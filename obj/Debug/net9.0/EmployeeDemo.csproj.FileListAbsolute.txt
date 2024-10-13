@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\bin\Debug\net9.0\EmployeeDemo.exe
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\bin\Debug\net9.0\EmployeeDemo.deps.json
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\bin\Debug\net9.0\EmployeeDemo.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\bin\Debug\net9.0\EmployeeDemo.dll
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\bin\Debug\net9.0\EmployeeDemo.pdb
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\obj\Debug\net9.0\EmployeeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\obj\Debug\net9.0\EmployeeDemo.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\obj\Debug\net9.0\EmployeeDemo.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\obj\Debug\net9.0\EmployeeDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\obj\Debug\net9.0\EmployeeDemo.sourcelink.json
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\obj\Debug\net9.0\EmployeeDemo.dll
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\obj\Debug\net9.0\refint\EmployeeDemo.dll
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\obj\Debug\net9.0\EmployeeDemo.pdb
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\obj\Debug\net9.0\EmployeeDemo.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\CSharpMathProjects\IQuittableDemo\EmployeeDemo\obj\Debug\net9.0\ref\EmployeeDemo.dll

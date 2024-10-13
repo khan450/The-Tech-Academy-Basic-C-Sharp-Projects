@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using System;
 
 // Define the Employee class
@@ -68,3 +69,7 @@ class Program
         Console.ReadLine();
     }
 }
+=======
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+>>>>>>> 6792422a0e68fa6598b77dc9f908d2674b8b928a

@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net9.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpMathProjects\\IQuittableDemo\\EmployeeDemo\\EmployeeDemo.csproj",
+      "projectName": "EmployeeDemo",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpMathProjects\\IQuittableDemo\\EmployeeDemo\\EmployeeDemo.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpMathProjects\\IQuittableDemo\\EmployeeDemo\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpMathProjects\\IQuittableDemo\\IQuittableDemo.csproj",
+      "projectName": "IQuittableDemo",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpMathProjects\\IQuittableDemo\\IQuittableDemo.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\CSharpMathProjects\\IQuittableDemo\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\user\\The-Tech-Academy-Basic-C-Sharp-Projects\\The-Tech-Academy-Basic-C-Sharp-Projects.csproj",
+      "projectName": "The-Tech-Academy-Basic-C-Sharp-Projects",
+      "projectPath": "C:\\Users\\user\\The-Tech-Academy-Basic-C-Sharp-Projects\\The-Tech-Academy-Basic-C-Sharp-Projects.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\The-Tech-Academy-Basic-C-Sharp-Projects\\obj\\",
+>>>>>>> d7ca3328e83b324cd2700c7c9012cec553a12ebc
+>>>>>>> adcd03924d2e8e5cc8477fd4bc853ae536533e6a
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
